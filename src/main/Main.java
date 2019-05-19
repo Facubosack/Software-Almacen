@@ -5,7 +5,7 @@ import ventanas.Nueva_Compra;
 
 /**
  *
- * @author Juli Altamirano
+ * @author Juli Altamirano ...
  */
 public class Main extends javax.swing.JFrame {
 
@@ -36,7 +36,7 @@ public class Main extends javax.swing.JFrame {
         jPanel.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         Titulo.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        Titulo.setText("(Título)");
+        Titulo.setText("(TÃ­tulo)");
 
         Boton1.setText("Nueva Compra");
         Boton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
