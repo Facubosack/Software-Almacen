@@ -1,7 +1,7 @@
 package main;
 
-import ventanas.Mostrar_Stock;
-import ventanas.Nueva_Compra;
+import ventanas.Mostrar_Stock
+import ventanas.Nueva_Compra
 
 /**
  *
@@ -13,7 +13,7 @@ public class Main extends javax.swing.JFrame {
      * Creates new form Main
      */
     public Main() {
-        initComponents();
+        initComponents()
         this.setLocationRelativeTo(null);
     }
 
